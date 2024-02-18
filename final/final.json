@@ -1,0 +1,81 @@
+[
+    {
+        "answer": "It is certain.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "It is decidedly so.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Without a doubt.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Yes, definitely.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "You may rely on it.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "As I see it, yes.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Most likely.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Outlook good.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Yes.",
+        "allignment": "positive"
+    },
+    {
+        "answer": "Signs point to yes.",
+        "allignment": "positive"
+    },{
+        "answer": "Reply hazy, try again.",
+        "allignment": "uncertain"
+    },
+    {
+        "answer": "Ask again later.",
+        "allignment": "uncertain"
+    },
+    {
+        "answer": "Better not tell you now.",
+        "allignment": "uncertain"
+    },
+    {
+        "answer": "Cannot predict now.",
+        "allignment": "uncertain"
+    },
+    {
+        "answer": "Concentrate and ask again.",
+        "allignment": "uncertain"
+    },
+    {
+        "answer": "Don't count on it.",
+        "allignment": "negative"
+    },
+    {
+        "answer": "My reply is no.",
+        "allignment": "negative"
+    },
+    {
+        "answer": "My sources say no.",
+        "allignment": "negative"
+    },
+    {
+        "answer": "Outlook not so good.",
+        "allignment": "negative"
+    },
+    {
+        "answer": "Very doubtful.",
+        "allignment": "negative"
+    }
+]
